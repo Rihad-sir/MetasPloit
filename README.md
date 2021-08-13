@@ -18,7 +18,7 @@ git clone https://github.com/Rihad-sir/MetasPloit.git
  
  msfconsole
  
- 
+ Thanks for using this script
  ------- successfully installed MetasPloit---------
  
  ™=========================π•NESSES CYBER SECURITY ™•π===============✓
