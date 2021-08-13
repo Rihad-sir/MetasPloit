@@ -2,11 +2,11 @@
 
 pkg install wget 
 
-pkg install postgresql 
 
-pkg install openssh wget git -y 
 
-git clone https://github.com/Rihad-sir/MetasPloit.git
+
+
+git clone 
 
  cd MetasPloit
  
