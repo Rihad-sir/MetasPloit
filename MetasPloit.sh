@@ -14,7 +14,7 @@ echo###############installing...
 pkg install openssh wget curl git -y
 echo #####installd✅##########
 
-clear.
+clear
 figlet Msploit.
 echo ##########scripted by RIHAD NESSES CYBER SECURITY ™######
 echo *.                  .*
