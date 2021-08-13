@@ -6,7 +6,7 @@ pkg install wget
 
 
 
-git clone 
+git clone https://github.com/Rihad-sir/MetasPloit.git
 
  cd MetasPloit
  
