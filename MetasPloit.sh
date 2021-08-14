@@ -1,14 +1,16 @@
 pkg install figlet -y
 clear
-figlet Msploit
+figlet Metasploit.
+echo .
+echo ----------------------------------------
 echo installing postgresql...
 echo .                  .
-echo###############installing...
+echo ###############installing...
 echo.
 pkg install postgresql -y
 echo postgresql installed✅
 echo installing openssh wget curl git...
-echo.                       .
+echo .                       .
 echo###############installing...
 
 pkg install openssh wget curl git -y
