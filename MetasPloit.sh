@@ -15,7 +15,7 @@ echo###############installing...
 
 pkg install openssh wget curl git -y
 echo #####installd✅##########
-
+sleep4
 clear
 figlet RihusploiT
 echo scripted by RIHAD NESSES CYBER SECURITY ™
